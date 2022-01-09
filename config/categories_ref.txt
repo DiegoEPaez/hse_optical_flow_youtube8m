@@ -1,0 +1,1 @@
+Categories were obtained from the following repo: https://github.com/gsssrao/youtube-8m-videos-frames
